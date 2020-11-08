@@ -1,7 +1,5 @@
 ##
-# Top Tips for Creating Accessible EPUB 3 Files for the GDL platform
-
-## Top Tips for Creating Accessible EPUB 3 Files
+# Guidelines for Creating Accessible EPUB 3 Files for the GDL platform
 
 ### 1. All text must be available in a logical reading order
 
