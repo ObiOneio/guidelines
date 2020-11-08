@@ -1,1 +1,1 @@
-# guidelines
+# Content guidelines
